@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33267'
     url: http://www.gutenberg.org/2009/agents/33267
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28323#Travels-in-North-America-From-Modern-WritersGlobe
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2009-03-13'
 gutenberg_type: Text
